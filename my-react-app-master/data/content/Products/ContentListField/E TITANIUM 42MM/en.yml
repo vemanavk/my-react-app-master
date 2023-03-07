@@ -1,0 +1,11 @@
+id: e_titanium_42mm
+displayName: E TITANIUM 42MM
+
+template: product_template
+fields:
+  model: BIG BANG
+  title: E TITANIUM 42MM
+  image: 
+    src: /data/media/img/big-bang-e-titanium-digital.png
+    alt: watch
+  price: 387,100

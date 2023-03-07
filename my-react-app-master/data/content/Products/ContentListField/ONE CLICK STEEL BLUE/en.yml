@@ -1,0 +1,11 @@
+id: one_click_steel_blue
+displayName: ONE CLICK STEEL BLUE
+
+template: product_template
+fields:
+  model: ONE CLICK 
+  title: ONE CLICK STEEL BLUE
+  image:
+    src: data\media\img\big-bang-one-click-steel-blue-diamonds-39-mm-465.SX.7170.LR.1204-soldier-shot.png
+    alt: watch
+  price: 1,129,700

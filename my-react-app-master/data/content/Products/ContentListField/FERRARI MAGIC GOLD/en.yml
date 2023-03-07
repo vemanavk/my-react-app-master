@@ -1,0 +1,11 @@
+id: ferrari_magic_gold
+displayName: FERRARI MAGIC GOLD
+
+template: product_template
+fields:
+  model: FERRARI 
+  title: FERRARI MAGIC GOLD
+  image:
+    src: /data/media/img/big-bang-ferrari-unico-magic-gold-45-mm-402.MX.0138.WR-soldier-shot.png
+    alt: watch
+  price: 2,757,100

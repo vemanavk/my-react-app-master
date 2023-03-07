@@ -1,0 +1,11 @@
+id: e_premier_league
+displayName: E PREMIER LEAGUE 42MM
+
+template: product_template
+fields:
+  model: BIG BANG
+  title: E PREMIER LEAGUE 42MM
+  image: 
+    src: /data/media/img/big-bang-e-premier-league.png
+    alt: watch
+  price: 387,100
